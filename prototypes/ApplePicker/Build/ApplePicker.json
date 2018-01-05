@@ -1,0 +1,13 @@
+{
+"companyName": "com.canishe",
+"productName": "Prototype 1 - Apple Picker",
+"dataUrl": "ApplePicker.data.unityweb",
+"asmCodeUrl": "ApplePicker.asm.code.unityweb",
+"asmMemoryUrl": "ApplePicker.asm.memory.unityweb",
+"asmFrameworkUrl": "ApplePicker.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

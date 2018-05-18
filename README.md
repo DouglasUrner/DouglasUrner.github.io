@@ -1,6 +1,6 @@
 # DouglasUrner.github.io
 
-Unity game prototypes.
+Unity game prototypes from IGDPD.
 
 * [Apple Picker](https://douglasurner.github.io/prototypes/ApplePicker/index.html)
 * [Mission Demolition](https://douglasurner.github.io/prototypes/MissionDemolition/index.html)

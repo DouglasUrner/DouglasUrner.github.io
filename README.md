@@ -1,6 +1,6 @@
 # DouglasUrner.github.io
 
-[Lander](https://douglasurner.github.io/prototypes/Lander/index.html)
+* [Lander](https://douglasurner.github.io/prototypes/Lander/index.html)
 
 Unity game prototypes from IGDPD.
 

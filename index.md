@@ -1,6 +1,3 @@
----
-layout: default
----
 # DouglasUrner.github.io
 
 * [Defender](https://douglasurner.github.io/prototypes/Lander/index.html)

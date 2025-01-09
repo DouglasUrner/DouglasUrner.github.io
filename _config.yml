@@ -29,9 +29,9 @@ bluesky_username: douglasurner
 github_username:  DouglasUrner
 
 # Build settings
-theme: minima
-#plugins:
-#  - jekyll-feed
+remote_theme: pages-themes/dinky@v0.2
+plugins:
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.

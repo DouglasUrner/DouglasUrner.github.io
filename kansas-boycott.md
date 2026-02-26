@@ -17,4 +17,19 @@ One way to resist and to support trans people in Kansas is by demanding that bus
 
 ### Companies Headquartered in Kansas
 
-Here is a list of companies and their brands that are headquartered in Kansas (the initial work to compile the list was done by https://bsky.app/profile/did:plc:flmlbky53h2l2277iqvnujfs.
+Here is a list of companies and their brands that are headquartered in Kansas (the initial work to compile the list was done by [@linegraft86761813.bsky.social](https://bsky.app/profile/did:plc:flmlbky53h2l2277iqvnujfs):
+
+* AMC Theatres
+* Black & Vaetch
+* Cargill Meat Solutions
+* Coleman
+* Garmin
+* Koch Industries
+  - Angel Soft
+  - Brawny
+  - Dixie
+  - Georgia-Pacific
+  - Quilted Northern
+  - Stainmaster
+  - Vanity Fair
+* Textron Aviation

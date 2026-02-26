@@ -1,0 +1,4 @@
+---
+---
+
+# Kansas Boycott
